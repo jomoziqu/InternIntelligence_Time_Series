@@ -1,8 +1,8 @@
 # InternIntelligence_Time_Series
 
-# Time Series Forecasting Project
+## Time Series Forecasting Project
 
-## 📌 Project Overview
+### 📌 Project Overview
 This project develops and compares time series forecasting models (SARIMA and Prophet) to predict future trends using historical data. The AirPassengers dataset (monthly airline passengers from 1949 to 1960) is used as an example, but the code can be adapted to any time series data (e.g., sales, stock prices).
 
 **Key Tasks**:
@@ -14,7 +14,7 @@ This project develops and compares time series forecasting models (SARIMA and Pr
 
 ---
 
-## 🛠️ Features
+### 🛠️ Features
 - **EDA**: Decompose time series into trend, seasonality, and residuals.
 - **Model Training**: Implement SARIMA (with auto-tuning) and Prophet.
 - **Evaluation**: Compare MAE and RMSE metrics.
@@ -22,7 +22,7 @@ This project develops and compares time series forecasting models (SARIMA and Pr
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/jomoziqu/InternIntelligence_Time_Series.git
